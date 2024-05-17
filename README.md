@@ -27,6 +27,13 @@ The dataset contains the following features:
 <br>
 <br>
 <br>
+ <figure>
+  <figcaption><b><i> Distribution Curve after Minmax Scaling </i></b></figcaption><br>
+   <br>
+  <img src="Images/Example%20Plot.png" height="350" width="350" >
+</figure>
+<br>
+<br>
 Data Preprocessing and Exploration
 The dataset was first loaded and inspected for any missing values or anomalies. No missing values were found. 
 <br>
