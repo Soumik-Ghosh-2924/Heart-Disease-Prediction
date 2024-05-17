@@ -62,6 +62,17 @@ Key metrics included:
 - Recall (Sensitivity): 80%
 - Precision: 83%
 - Specificity: 76%
+<br>
+<br>
+ <figure>
+  <figcaption><b><i> Distribution Curve after Minmax Scaling </i></b></figcaption><br>
+   <br>
+  <img src="Images/Performance.png" height="350" width="350" >
+</figure>
+<br>
+<br>
+
+  
 
 Prediction :
 The model was tested with example inputs, demonstrating its capability to predict heart disease presence.
