@@ -30,7 +30,7 @@ The dataset contains the following features:
  <figure>
   <figcaption><b><i> Distribution Curve after Minmax Scaling </i></b></figcaption><br>
    <br>
-  <img src="Images/Example%20Plot.png" height="350" width="350" >
+  <img src="Images/Example%20plot.png" height="350" width="350" >
 </figure>
 <br>
 <br>
