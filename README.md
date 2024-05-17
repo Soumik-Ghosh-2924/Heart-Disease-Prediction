@@ -67,7 +67,7 @@ Key metrics included:
  <figure>
   <figcaption><b><i> Distribution Curve after Minmax Scaling </i></b></figcaption><br>
    <br>
-  <img src="Images/Performance.png" height="350" width="350" >
+  <img src="Images/Performance_f.png" height="350" width="350" >
 </figure>
 <br>
 <br>
