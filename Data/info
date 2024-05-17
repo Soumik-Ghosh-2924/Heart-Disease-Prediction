@@ -1,7 +1,7 @@
 This consisits of the dataset used for developing this heart disease prediction model.
 
 More about the data : 
-<br>
+
 The dataset provided consists of 14 cardiovascular attributes for patients, with a binary target variable indicating the presence or absence of heart disease.
 Key attributes include age, sex, chest pain type (cp), resting blood pressure (trestbps), cholesterol level (chol), fasting blood sugar (fbs), resting electrocardiographic results (restecg), 
 maximum heart rate achieved (thalach), exercise-induced angina (exang), ST depression induced by exercise relative to rest (oldpeak), the slope of the peak exercise ST segment (slope), 
