@@ -49,7 +49,7 @@ Understanding the ROC Curve
    - Conversely, if the cost of false negatives (misclassifying a patient with heart disease) is higher, you would select 
      a threshold that ensures a higher true positive rate.
 
-<b>Conclusion</b>
+Conclusion : 
 
 The ROC curve and the AUC value of 0.85 indicate that your heart disease prediction model has good discriminative ability. 
 It effectively distinguishes between patients with and without heart disease. 
