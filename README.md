@@ -1,7 +1,7 @@
 # Heart-Disease-Prediction
 A project on heart disease prediction. 
 
-<b>Heart Disease Prediction Project Analysis</b>
+<b><u>Heart Disease Prediction Project Analysis</u></b>
 
 Introduction
 The heart disease prediction project aims to create a model that accurately predicts the presence of heart disease based on various health indicators.
